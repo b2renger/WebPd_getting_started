@@ -1,0 +1,8 @@
+#N canvas 0 0 450 300 10;
+#X obj 100 166 line~;
+#X msg 100 144 \$1 5;
+#X obj 100 115 r pjsvol1;
+#X obj 67 208 *~;
+#X connect 0 0 3 1;
+#X connect 1 0 0 0;
+#X connect 2 0 1 0;
