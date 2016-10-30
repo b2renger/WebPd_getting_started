@@ -13,6 +13,9 @@ and the amazing processing js : http://processingjs.org/
 # Examples
 
 Sample playback : http://b2renger.github.io/WebPd_getting_started/sample_playback_oneshot/index.html
+
 Sample looping : http://b2renger.github.io/WebPd_getting_started/sample_playback_varispeed/index.html
+
 Applying an effect : http://b2renger.github.io/WebPd_getting_started/effect_slider/index.html
+
 Simple drum machine : http://b2renger.github.io/WebPd_getting_started/drum_machine/index.html
